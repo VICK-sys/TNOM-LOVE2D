@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goldenFreddyJumpscare.png">
+<SubTexture name="goldenFreddyJumpscare goldenJump0000" x="0" y="2160" width="297" height="393" frameX="-429" frameY="-127" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0001" x="2346" y="1440" width="321" height="425" frameX="-416" frameY="-108" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0002" x="1999" y="1440" width="347" height="460" frameX="-399" frameY="-88" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0003" x="1618" y="1440" width="381" height="502" frameX="-380" frameY="-63" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0004" x="1200" y="1440" width="418" height="553" frameX="-360" frameY="-32" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0005" x="1045" y="720" width="465" height="610" frameX="-332" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0006" x="2146" y="720" width="523" height="641" frameX="-298" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0007" x="1546" y="720" width="600" height="683" frameX="-253" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0008" x="0" y="0" width="701" height="720" frameX="-195" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0009" x="701" y="0" width="845" height="720" frameX="-110" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0010" x="0" y="720" width="1045" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0011" x="1546" y="0" width="1195" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+<SubTexture name="goldenFreddyJumpscare goldenJump0012" x="0" y="1440" width="1200" height="720" frameX="0" frameY="0" frameWidth="1200" frameHeight="720" />
+</TextureAtlas>

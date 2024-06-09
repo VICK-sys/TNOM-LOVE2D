@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blue_baby_jumpscare.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2spooky4me0000" x="0" y="0" width="0" height="0" frameX="-62" frameY="-437" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0001" x="0" y="0" width="0" height="0" frameX="-62" frameY="-437" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0002" x="2" y="0" width="627" height="344" frameX="-108" frameY="-436" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0003" x="631" y="0" width="753" height="817" frameX="-42" frameY="0" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0004" x="0" y="819" width="751" height="778" frameX="-46" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0005" x="753" y="819" width="777" height="778" frameX="-54" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0006" x="0" y="1599" width="770" height="813" frameX="-33" frameY="-1" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0007" x="772" y="1599" width="767" height="778" frameX="0" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0008" x="0" y="819" width="751" height="778" frameX="-46" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0009" x="753" y="819" width="777" height="778" frameX="-54" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0010" x="0" y="1599" width="770" height="813" frameX="-33" frameY="-1" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0011" x="772" y="1599" width="767" height="778" frameX="0" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0012" x="0" y="819" width="751" height="778" frameX="-46" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0013" x="753" y="819" width="777" height="778" frameX="-54" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0014" x="0" y="1599" width="770" height="813" frameX="-33" frameY="-1" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0015" x="772" y="1599" width="767" height="778" frameX="0" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0016" x="0" y="819" width="751" height="778" frameX="-46" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0017" x="753" y="819" width="777" height="778" frameX="-54" frameY="-36" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0018" x="0" y="1599" width="770" height="813" frameX="-33" frameY="-1" frameWidth="831" frameHeight="817"/>
+	<SubTexture name="2spooky4me0019" x="772" y="1599" width="767" height="778" frameX="0" frameY="-36" frameWidth="831" frameHeight="817"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIC.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JUMP AAAH0000" x="16" y="16" width="0" height="0" frameX="-385" frameY="-441" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0001" x="16" y="16" width="0" height="0" frameX="-385" frameY="-441" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0002" x="34" y="16" width="1045" height="479" frameX="-202" frameY="-394" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0003" x="1097" y="16" width="1380" height="841" frameX="-10" frameY="0" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0004" x="2495" y="16" width="1409" height="841" frameX="-2" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0005" x="16" y="875" width="1409" height="841" frameX="0" frameY="-29" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0006" x="1443" y="875" width="1409" height="841" frameX="-6" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0007" x="16" y="1734" width="1409" height="841" frameX="-4" frameY="-31" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0008" x="2495" y="16" width="1409" height="841" frameX="-2" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0009" x="16" y="875" width="1409" height="841" frameX="0" frameY="-29" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0010" x="1443" y="875" width="1409" height="841" frameX="-6" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0011" x="16" y="1734" width="1409" height="841" frameX="-4" frameY="-31" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0012" x="2495" y="16" width="1409" height="841" frameX="-2" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0013" x="16" y="875" width="1409" height="841" frameX="0" frameY="-29" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0014" x="1443" y="875" width="1409" height="841" frameX="-6" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0015" x="16" y="1734" width="1409" height="841" frameX="-4" frameY="-31" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0016" x="2495" y="16" width="1409" height="841" frameX="-2" frameY="-27" frameWidth="1415" frameHeight="873"/>
+	<SubTexture name="JUMP AAAH0017" x="16" y="875" width="1409" height="841" frameX="0" frameY="-29" frameWidth="1415" frameHeight="873"/>
+</TextureAtlas>

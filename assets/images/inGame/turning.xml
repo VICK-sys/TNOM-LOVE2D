@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="turning.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="turning Turns0000" x="0" y="0" width="1321" height="694"/>
+	<SubTexture name="turning Turns0001" x="1323" y="0" width="365" height="694" frameX="0" frameY="0" frameWidth="1321" frameHeight="694"/>
+	<SubTexture name="turning Turns0002" x="1690" y="0" width="0" height="0" frameX="125" frameY="45" frameWidth="1321" frameHeight="694"/>
+	<SubTexture name="turning back0000" x="0" y="696" width="482" height="694" frameX="0" frameY="0" frameWidth="1321" frameHeight="694"/>
+	<SubTexture name="turning back0001" x="484" y="696" width="1321" height="694"/>
+	<SubTexture name="turning back0002" x="1690" y="0" width="0" height="0" frameX="125" frameY="45" frameWidth="1321" frameHeight="694"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="battery.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chargeFull0000" x="0" y="0" width="137" height="71"/>
+	<SubTexture name="chargeAlmostFull0000" x="0" y="73" width="137" height="71"/>
+	<SubTexture name="chargeHalf0000" x="0" y="146" width="137" height="71"/>
+	<SubTexture name="chargeAlmostEmpty0000" x="0" y="219" width="137" height="71"/>
+	<SubTexture name="chargeEmpty0000" x="0" y="292" width="137" height="71"/>
+</TextureAtlas>

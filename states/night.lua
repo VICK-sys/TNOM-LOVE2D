@@ -11,6 +11,8 @@ local fadeTimer = 0
 local alpha = 1
 local fading = false
 
+local stateManager = require "libs.stateManager"
+
 local soundPool = {}
 for i = 1, 10 do
     table.insert(soundPool, love.audio.newSource("assets/sounds/letter_sound.ogg", "static"))
@@ -34,6 +36,7 @@ function night.update(dt)
         alpha = math.max(0, alpha - dt / 3)
         if alpha == 0 then
             fading = false
+            stateManager.switch(require "states/game")
         end
     elseif pauseTimer < pauseDuration then
         pauseTimer = pauseTimer + dt
